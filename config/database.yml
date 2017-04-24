@@ -1,0 +1,13 @@
+development:
+  adapter: postgresql
+  database: tweetsearch_dev
+  pool: 5
+  username: johnbarnicle
+  password:
+
+development:
+  adapter: postgresql
+  database: tweetsearch_test
+  pool: 5
+  username: johnbarnicle
+  password:

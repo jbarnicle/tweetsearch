@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1375913967">
+    <data-source source="LOCAL" name="Rails tweetsearch: development" uuid="acec0477-32e5-4fcf-b54a-8552a97c8611">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:tweetsearch_test</jdbc-url>
+      <user-name>johnbarnicle</user-name>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails tweetsearch: test" uuid="96ec4b50-f947-4700-bb68-26be1743a940">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/db/test.sqlite3</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
